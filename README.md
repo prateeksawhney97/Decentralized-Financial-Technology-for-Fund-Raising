@@ -23,7 +23,7 @@ It is to implement a decentralised application on Ethereum Network using blockch
 
 #### Powerpoint Presentation:
 
-
+https://docs.google.com/presentation/d/1ZX7R9iOjGzB0mG71kiq9Kc5gAY27zMX39HWGFT3TXIE/edit?usp=sharing
 
 #### Instructions
 
