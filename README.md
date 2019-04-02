@@ -1,6 +1,7 @@
 # Decentralized-Financial-Technology-for-Fund-Raising
 
 ## Idea
+
 ## Decentralized-Financial-Technology-for-Fund-Raising
 
 ### To create a decentralised system of Financial Technology - Banking for fund raising, on Ethereum using blockchain technology.
@@ -99,4 +100,5 @@ On terminal >> npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-bet
 #### Campaign Factory and Campaign Smart Contract with different functions:
 
 ![screenshot from 2019-01-10 19-26-44](https://user-images.githubusercontent.com/34116562/50973056-02ab0a80-150e-11e9-9db1-de04b03d9109.png)
+
 
