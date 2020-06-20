@@ -1,4 +1,4 @@
-# Decentralized-Financial-Technology-for-Fund-Raising
+# Decentralized-Financial-Technology-for-Fund-Raising-Using-Ethereum
 
 ## Idea
 
